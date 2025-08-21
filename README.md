@@ -1,1 +1,1 @@
-# slamlab_ros
+# SLAMLab ROS Wrapper
